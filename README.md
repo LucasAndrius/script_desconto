@@ -1,6 +1,6 @@
 # Script de desconto pelo valor total da compra
 
-Este é um programa em Python que calcula o desconto conforme o valor total da compra, seguindo as regras estabelecidas:
+Enunciado: Imagina-se que você é um dos programadores responsáveis pela construção de app de vendas para uma determinada empresa X que vende em atacado. Uma das estratégias de vendas dessa empresa X é dar desconto maiores conforme o valor total da compra conforme a seguinte listagem:
 
 - Se o valor total da compra for menor que R$ 2500.00, o desconto será de 0%;
 - Se o valor total da compra for igual ou maior que R$ 2500.00 e menor que R$ 6000.00, o desconto será de 4%;
