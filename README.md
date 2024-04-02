@@ -21,6 +21,11 @@ Enunciado: Imagina-se que você é um dos programadores responsáveis pela const
 1. Mensagem de boas-vindas com o nome do programador.
 2. Pedido com desconto caso o valor total da compra seja acima de R$ 2500.00.
 
+## Screenshot do Programa:
+
+<img src="[https://caminho-para-seu-gif.gif](https://github.com/LucasAndrius/script_desconto/blob/master/gif%20script%20desconto.gif)" alt="Demonstração do Programa">
+
+## Código:
 ```python
 # Print de boas vindas à loja
 print('Bem-vindo à loja do Lucas Andrius de Oliveira')
