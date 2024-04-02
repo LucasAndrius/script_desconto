@@ -23,7 +23,7 @@ Enunciado: Imagina-se que você é um dos programadores responsáveis pela const
 
 ## Screenshot do Programa:
 
-<img src="[https://caminho-para-seu-gif.gif](https://github.com/LucasAndrius/script_desconto/blob/master/gif%20script%20desconto.gif)" alt="Demonstração do Programa">
+<img src="https://github.com/LucasAndrius/script_desconto/blob/master/gif_script_desconto.gif" alt="Demonstração do Programa">
 
 ## Código:
 ```python
